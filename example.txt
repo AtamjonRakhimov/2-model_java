@@ -1,0 +1,3 @@
+Salom, bu birinchi qatordir!
+Bu esa ikkinchi qatordir.
+BufferedWriter juda tez ishlaydi!

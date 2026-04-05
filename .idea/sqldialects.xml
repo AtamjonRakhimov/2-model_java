@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/leetcode/database(MySQL)/Solution-1251.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/leetcode/database(MySQL)/Solution_1050.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/leetcode/database(MySQL)/Solution_1068.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/leetcode/database(MySQL)/Solution_1075.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/leetcode/database(MySQL)/Solution_1084.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/leetcode/database(MySQL)/Solution_1141.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/leetcode/database(MySQL)/Solution_1148.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/leetcode/database(MySQL)/Solution_1179.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/leetcode/database(MySQL)/Solution_1280.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/leetcode/database(MySQL)/Solution_1378.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/leetcode/database(MySQL)/Solution_1407.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/leetcode/database(MySQL)/Solution_1484.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/leetcode/database(MySQL)/Solution_1517.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/leetcode/database(MySQL)/Solution_1527.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/leetcode/database(MySQL)/Solution_1581.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/leetcode/database(MySQL)/Solution_1587.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/leetcode/database(MySQL)/Solution_1633.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/leetcode/database(MySQL)/Solution_1661.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/leetcode/database(MySQL)/Solution_511.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/leetcode/database(MySQL)/Solution_577.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/leetcode/database(MySQL)/Solution_584.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/leetcode/database(MySQL)/Solution_586.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/leetcode/database(MySQL)/Solution_595.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/leetcode/database(MySQL)/Solution_596.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/leetcode/database(MySQL)/Solution_607.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/leetcode/database(MySQL)/Solution_619.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/leetcode/database(MySQL)/Solution_620.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/leetcode/database(MySQL)/Solution_627.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/leetcode/database(MySQL)/solution_196.sql" dialect="GenericSQL" />
+  </component>
+</project>
