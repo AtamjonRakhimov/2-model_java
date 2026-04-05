@@ -1,6 +1,6 @@
 package pdpuz;
 
-public class Parent {
+class Parent {
     Parent() {
         print();
     }

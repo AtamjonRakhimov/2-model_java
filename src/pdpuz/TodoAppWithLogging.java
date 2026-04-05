@@ -1,7 +1,11 @@
 package pdpuz;
 
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 public class TodoAppWithLogging {
     private static final Logger logger = Logger.getLogger(TodoAppWithLogging.class.getName());
@@ -18,16 +22,15 @@ public class TodoAppWithLogging {
 
         logger.info("All tasks successfully added.");
 
-        // Tasklarni kuzatish (backgroundda)
         while (true) {
             LocalDateTime now = LocalDateTime.now();
             for (Task task : tasks) {
                 if (!task.isDone() && now.isAfter(task.time)) {
-                    logger.log(Level.INFO, "⏰ Task time reached: " + task.description);
+                    logger.log(Level.INFO, "Task time reached: " + task.description);
                     task.setDone(true);
                 }
             }
-            Thread.sleep(1000); // har 1 soniyada tekshiradi
+            Thread.sleep(1000);
         }
     }
 
@@ -36,7 +39,6 @@ public class TodoAppWithLogging {
         logger.log(Level.INFO, "Task added: {0} | Time: {1}", new Object[]{description, time.format(formatter)});
     }
 
-    // Ichki class
     static class Task {
         private String description;
         private LocalDateTime time;
